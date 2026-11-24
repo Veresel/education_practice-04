@@ -1,0 +1,14 @@
+D:\учеб 04 практ\tools\EvidenceCapture\obj\Debug\net10.0-windows\EvidenceCapture.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеб 04 практ\tools\EvidenceCapture\obj\Debug\net10.0-windows\EvidenceCapture.AssemblyInfoInputs.cache
+D:\учеб 04 практ\tools\EvidenceCapture\obj\Debug\net10.0-windows\EvidenceCapture.AssemblyInfo.cs
+D:\учеб 04 практ\tools\EvidenceCapture\obj\Debug\net10.0-windows\EvidenceCapture.csproj.CoreCompileInputs.cache
+D:\учеб 04 практ\tools\EvidenceCapture\bin\Debug\net10.0-windows\EvidenceCapture.exe
+D:\учеб 04 практ\tools\EvidenceCapture\bin\Debug\net10.0-windows\EvidenceCapture.deps.json
+D:\учеб 04 практ\tools\EvidenceCapture\bin\Debug\net10.0-windows\EvidenceCapture.runtimeconfig.json
+D:\учеб 04 практ\tools\EvidenceCapture\bin\Debug\net10.0-windows\EvidenceCapture.dll
+D:\учеб 04 практ\tools\EvidenceCapture\bin\Debug\net10.0-windows\EvidenceCapture.pdb
+D:\учеб 04 практ\tools\EvidenceCapture\obj\Debug\net10.0-windows\EvidenceCapture.dll
+D:\учеб 04 практ\tools\EvidenceCapture\obj\Debug\net10.0-windows\refint\EvidenceCapture.dll
+D:\учеб 04 практ\tools\EvidenceCapture\obj\Debug\net10.0-windows\EvidenceCapture.pdb
+D:\учеб 04 практ\tools\EvidenceCapture\obj\Debug\net10.0-windows\EvidenceCapture.genruntimeconfig.cache
+D:\учеб 04 практ\tools\EvidenceCapture\obj\Debug\net10.0-windows\ref\EvidenceCapture.dll
